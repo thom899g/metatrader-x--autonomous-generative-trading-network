@@ -1,0 +1,10 @@
+firebase-admin==6.4.0
+pandas==2.2.0
+numpy==1.24.3
+scikit-learn==1.3.2
+gymnasium==0.29.1
+ta==0.11.0
+python-dotenv==1.0.0
+schedule==1.2.1
+pytest==7.4.3
+pydantic==2.5.0
